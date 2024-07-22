@@ -1,10 +1,18 @@
 - 👋 Hi, I’m Pradipta Roy
-- 👀 I’m interested in DevOps / MLops
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I'm a Software Developer at Amdocs R&D, specializing in DevOps with Kubernetes, Groovy, Helm charts, Jenkins Builds, and Java application development for enterprise-level products.
+- I am well versed and have professional experience in following techs
+   - Version Control Systems (Git, SVN)
+   - CI/CD Pipelines
+   - Virtualization (Docker, Vagrant)
+   - Configuration Management (Ansible, Puppet)
+   - Container Orchestration (Kubernetes)
+   - Monitoring and Logging (Prometheus, Grafana, ELK Stack)
+   - Infrastructure as Code (Terraform, CloudFormation)
+   - Scripting (Python, Bash)
+   - Web Development
+   - Cloud Computing (AWS)
+     
+
 
 <!---
 pradipt-roy/pradipt-roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
